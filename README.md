@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-Our company is diversifying its portfolio by entering the aviation industry. To ensure a safe and successful entry, the leadership team is exploring which aircraft models are lowest risk for purchase and operation. This project aims to analyze historical aviation accident data to determine which aircraft present the **lowest operational risk**, enabling data-driven acquisition decisions for both **commercial** and **private enterprise** use cases.
+Our company is diversifying its portfolio by entering the aviation industry. To ensure a safe and successful entry, the leadership team is exploring which aircraft models are lowest risk for purchase and operation. This project aims to analyze historical aviation accident data to determine which aircraft present the **lowest operational risk**, enabling data-driven acquisition decisions for both **commercial** and **private enterprise** use cases. The dataset is sourced from: https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses?select=AviationData.csv
+
 
 ![aircraft](images\aircraft.jpg)
 
