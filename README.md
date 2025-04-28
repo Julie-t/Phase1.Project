@@ -69,5 +69,4 @@ Python Libraries:
 
 - Matplotlib & Seaborn (data visualization)
 
-- NumPy (numerical operations)
 
